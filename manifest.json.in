@@ -10,7 +10,7 @@
             "content-hub": "ShareCopyToClipboard/ShareCopyToClipboard.content-hub"
         }
     },
-    "version": "1.0",
+    "version": "1.02",
     "maintainer": "Stuart Langridge <sil-launchpad@kryogenix.org>",
     "framework": "ubuntu-sdk-15.04.3"
 }
