@@ -1,0 +1,16 @@
+{
+    "name": "sharecopytoclipboard.sil",
+    "description": "Add ‘Copy to Clipboard’ to your Share menu",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Copy to Clipboard",
+    "hooks": {
+        "ShareCopyToClipboard": {
+            "apparmor": "ShareCopyToClipboard/ShareCopyToClipboard.apparmor",
+            "desktop": "ShareCopyToClipboard/ShareCopyToClipboard.desktop",
+            "content-hub": "ShareCopyToClipboard/ShareCopyToClipboard.content-hub"
+        }
+    },
+    "version": "1.0",
+    "maintainer": "Stuart Langridge <sil-launchpad@kryogenix.org>",
+    "framework": "ubuntu-sdk-15.04.3"
+}
