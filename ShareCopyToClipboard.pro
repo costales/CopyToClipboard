@@ -10,7 +10,7 @@ SUBDIRS += ShareCopyToClipboard
 
 # specify the manifest file, this file is required for click
 # packaging and for the IDE to create runconfigurations
-UBUNTU_MANIFEST_FILE=manifest.json.in
+UBUNTU_MANIFEST_FILE=manifest.json
 
 # specify translation domain, this must be equal with the
 # app name in the manifest file

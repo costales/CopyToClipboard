@@ -4,7 +4,7 @@ import Ubuntu.Content 1.3
 
 MainView {
     id: root
-    applicationName: "sharecopytoclipboard.sil"
+    applicationName: "sharecopytoclipboard.costales"
 
     width: units.gu(40)
     height: units.gu(71)

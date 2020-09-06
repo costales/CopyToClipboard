@@ -7,5 +7,4 @@ Type=Application
 X-Ubuntu-Touch=true
 X-Ubuntu-Splash-Color=#ebebeb
 X-Ubuntu-Splash-Image=ShareCopyToClipboard/copying.png
-OnlyShowIn=Old
 

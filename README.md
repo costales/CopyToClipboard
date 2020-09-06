@@ -1,3 +1,3 @@
 # ShareCopyToClipboard-ubuntuphone
 Add "Copy to Clipboard" to the Ubuntu phone share menu.
-Available in the store as "[Copy to Clipboard](https://uappexplorer.com/app/sharecopytoclipboard.sil)""
+Based on the work of Stuart Langridge: https://github.com/stuartlangridge/ShareCopyToClipboard-ubuntuphone
