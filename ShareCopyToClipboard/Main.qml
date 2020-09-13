@@ -73,9 +73,9 @@ MainView {
             anchors.right: parent.right
             anchors.bottomMargin: units.gu(2)
             anchors.rightMargin: units.gu(2)
-            text: "This is an <a href='#'>sil</a> thing</a>"
+            text: "Based on the work of <a href='http://www.kryogenix.org/'>sil</a>. Maintained by <a href='https://costales.github.io/about/'>Costales</a>"
             fontSize: "small"
-            onLinkActivated: Qt.openUrlExternally("http://www.kryogenix.org/")
+            onLinkActivated: Qt.openUrlExternally(link)
         }
     }
 }
