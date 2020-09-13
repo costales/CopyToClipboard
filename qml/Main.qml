@@ -54,7 +54,7 @@ MainView {
             width: parent.width - units.gu(4)
             wrapMode: Text.Wrap
             fontSize: "large"
-            text: i18n.tr("Copy to Clipboard is now available in your Share menu from any app.")
+            text: i18n.tr("Available in your Share menu you can copy links to the clipboard.")
             horizontalAlignment: Text.AlignHCenter
             visible: true
         }
@@ -73,7 +73,7 @@ MainView {
             anchors.right: parent.right
             anchors.bottomMargin: units.gu(2)
             anchors.rightMargin: units.gu(2)
-            text: "Based on a <a href='http://www.kryogenix.org/'>sil</a>\'s work. Maintained by <a href='https://costales.github.io/about/'>Costales</a>"
+            text: "Based on <a href='http://www.kryogenix.org/'>sil</a>\'s work. Maintained by <a href='https://costales.github.io/about/'>Costales</a>"
             fontSize: "small"
             onLinkActivated: Qt.openUrlExternally(link)
         }

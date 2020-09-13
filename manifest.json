@@ -2,7 +2,7 @@
     "name": "copytoclipboard.costales",
     "description": "Add Copy to Clipboard to your share menu",
 	"architecture": "all",
-    "title": "Copy to Clipboard",
+    "title": "Copy",
     "hooks": {
         "ShareCopyToClipboard": {
             "apparmor": "copytoclipboard.apparmor",
@@ -10,7 +10,7 @@
             "content-hub": "copytoclipboard.content-hub"
         }
     },
-    "version": "1.1",
+    "version": "1.2",
 	"maintainer": "Marcos Costales <marcos.costales@gmail.com>",
 	"framework": "ubuntu-sdk-16.04.2"
 }
