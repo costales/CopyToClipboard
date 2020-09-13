@@ -5,9 +5,9 @@
     "title": "Copy to Clipboard",
     "hooks": {
         "ShareCopyToClipboard": {
-            "apparmor": "ShareCopyToClipboard/ShareCopyToClipboard.apparmor",
-            "desktop": "ShareCopyToClipboard/ShareCopyToClipboard.desktop",
-            "content-hub": "ShareCopyToClipboard/ShareCopyToClipboard.content-hub"
+            "apparmor": "./ShareCopyToClipboard.apparmor",
+            "desktop": "./ShareCopyToClipboard.desktop",
+            "content-hub": "./ShareCopyToClipboard.content-hub"
         }
     },
     "version": "1.0",

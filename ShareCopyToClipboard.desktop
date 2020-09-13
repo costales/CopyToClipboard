@@ -1,10 +1,10 @@
 [Desktop Entry]
 Name=Copy To Clipboard
 Exec=qmlscene %U ShareCopyToClipboard/Main.qml
-Icon=ShareCopyToClipboard/ShareCopyToClipboard.png
+Icon=./ShareCopyToClipboard.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
 X-Ubuntu-Splash-Color=#ebebeb
-X-Ubuntu-Splash-Image=ShareCopyToClipboard/copying.png
+X-Ubuntu-Splash-Image=./splash.svg
 
