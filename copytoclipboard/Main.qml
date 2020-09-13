@@ -4,7 +4,7 @@ import Ubuntu.Content 1.3
 
 MainView {
     id: root
-    applicationName: "sharecopytoclipboard.costales"
+    applicationName: "copytoclipboard.costales"
 
     width: units.gu(40)
     height: units.gu(71)
@@ -73,7 +73,7 @@ MainView {
             anchors.right: parent.right
             anchors.bottomMargin: units.gu(2)
             anchors.rightMargin: units.gu(2)
-            text: "Based on the work of <a href='http://www.kryogenix.org/'>sil</a>. Maintained by <a href='https://costales.github.io/about/'>Costales</a>"
+            text: "Based on a <a href='http://www.kryogenix.org/'>sil</a>\'s work. Maintained by <a href='https://costales.github.io/about/'>Costales</a>"
             fontSize: "small"
             onLinkActivated: Qt.openUrlExternally(link)
         }

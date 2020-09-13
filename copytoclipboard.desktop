@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Copy To Clipboard
-Exec=qmlscene %u ShareCopyToClipboard/Main.qml
-Icon=./ShareCopyToClipboard.png
+Exec=qmlscene %u copytoclipboard/Main.qml
+Icon=copytoclipboard.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true

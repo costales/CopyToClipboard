@@ -1,16 +1,16 @@
 {
-    "name": "sharecopytoclipboard.costales",
-    "description": "Add ‘Copy to Clipboard’ to your Share menu",
+    "name": "copytoclipboard.costales",
+    "description": "Add Copy to Clipboard to your share menu",
 	"architecture": "all",
     "title": "Copy to Clipboard",
     "hooks": {
         "ShareCopyToClipboard": {
-            "apparmor": "./ShareCopyToClipboard.apparmor",
-            "desktop": "./ShareCopyToClipboard.desktop",
-            "content-hub": "./ShareCopyToClipboard.content-hub"
+            "apparmor": "copytoclipboard.apparmor",
+            "desktop": "copytoclipboard.desktop",
+            "content-hub": "copytoclipboard.content-hub"
         }
     },
-    "version": "1.0",
+    "version": "1.1",
 	"maintainer": "Marcos Costales <marcos.costales@gmail.com>",
 	"framework": "ubuntu-sdk-16.04.2"
 }
