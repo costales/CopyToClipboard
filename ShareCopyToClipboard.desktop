@@ -5,3 +5,10 @@ Icon=./ShareCopyToClipboard.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
+
+X-Ayatana-Appmenu-Show-Stubs=false
+X-Ubuntu-Single-Instance=true
+X-Ubuntu-Splash-Show-Header=false
+X-Ubuntu-Splash-Color-Header=#ffffff
+X-Ubuntu-Splash-Color=#ffffff
+X-Ubuntu-Splash-Color-Footer=#ffffff
