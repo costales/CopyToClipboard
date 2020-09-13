@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Copy To Clipboard
-Exec=qmlscene %u copytoclipboard/Main.qml
+Exec=qmlscene %u qml/Main.qml
 Icon=copytoclipboard.png
 Terminal=false
 Type=Application
